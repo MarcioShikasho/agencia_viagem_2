@@ -1,0 +1,44 @@
+# Diretórios de build
+/target/
+!/src/main/**/target/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Configurações específicas de IDE
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de execução
+*.class
+
+# Banco de dados local, se houver
+*.h2.db
+
+# Arquivos de ambiente e senhas
+.env
+*.key
+*.pem
+
+# Testes gerados
+/coverage/
