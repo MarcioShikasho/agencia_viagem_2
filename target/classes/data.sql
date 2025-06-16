@@ -1,0 +1,2 @@
+INSERT INTO usuario (id, login, senha, perfil) VALUES (1, 'admin', '$2a$10$JLpTyYnaMCU3lUp2LkK9zeS/Ch8MQq9KMCsFOHp7fNf4RxjAeZsSi', 'ADMIN');
+INSERT INTO usuario (id, login, senha, perfil) VALUES (2, 'cliente', '$2a$10$e3ntRgFv/PAG6Q2AcAwk7eKdbGItmiZGXmR22vZt.Wq8Ul.XN8rPq', 'USER');
